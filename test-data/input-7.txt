@@ -1,0 +1,2 @@
+GT4500,0,1,0,1 # minden ures es rossz
+TORPEDO,ALL  # minden esetben hiba

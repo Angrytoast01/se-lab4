@@ -1,0 +1,2 @@
+GT4500,10,0,0,0 # elsodleges tele, masodlagos ures
+TORPEDO,ALL # igy is siker, mert az osszes "elerheto" tuzelt

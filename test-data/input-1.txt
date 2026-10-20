@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,1.0 # 10 torpedo, 100% hiba
+TORPEDO,SINGLE # sima loves
