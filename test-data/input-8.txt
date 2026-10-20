@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 # elsodleges ures, masodlagos tele
+TORPEDO,SINGLE #loves a  masodik tarbol

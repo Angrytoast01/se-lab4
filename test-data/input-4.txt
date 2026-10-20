@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 # elsodleges:2 masodlagos:0
+TORPEDO,SINGLE # elsodleges sikeres
+TORPEDO,SINGLE # masodlagos ures, igy elsodleges lo megint 
